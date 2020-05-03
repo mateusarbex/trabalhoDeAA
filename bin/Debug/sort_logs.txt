@@ -1,0 +1,10 @@
+Tipo de vetor: vetor aleatorio
+Metodo: Bubble Sort
+Tempo ocorrido: 0.006s
+Numero de elementos: 1000
+
+Tipo de vetor: vetor aleatorio
+Metodo: Merge Sort
+Tempo ocorrido: 0s
+Numero de elementos: 1000
+

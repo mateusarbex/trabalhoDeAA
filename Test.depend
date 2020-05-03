@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587927517 source:c:\users\mateus arbex\documents\test\test\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	<math.h>
+

@@ -1,0 +1,50 @@
+Tipo de vetor: vetor aleatorio
+Metodo: Merge Sort
+Tempo ocorrido: 0.039s
+Numero de elementos: 100000
+
+Tipo de vetor: vetor ordenado
+Metodo: Merge Sort
+Tempo ocorrido: 0.004s
+Numero de elementos: 10000
+
+Tipo de vetor: vetor invertido
+Metodo: Merge Sort
+Tempo ocorrido: 0.034s
+Numero de elementos: 100000
+
+Tipo de vetor: vetor ordenado
+Metodo: Bubble Sort
+Tempo ocorrido: 2850.38s
+Numero de elementos: 1000000
+
+Tipo de vetor: vetor aleatorio
+Metodo: Bubble Sort
+Tempo ocorrido: 7295.56s
+Numero de elementos: 1000000
+
+Tipo de vetor: vetor aleatorio
+Metodo: Insertion Sort
+Tempo ocorrido: 2034.7s
+Numero de elementos: 1000000
+
+Tipo de vetor: vetor aleatorio
+Metodo: Merge Sort
+Tempo ocorrido: 0.038s
+Numero de elementos: 100000
+
+Tipo de vetor: vetor aleatorio
+Metodo: Merge Sort
+Tempo ocorrido: 0s
+Numero de elementos: 10000
+
+Tipo de vetor: vetor aleatorio
+Metodo: Merge Sort
+Tempo ocorrido: 0s
+Numero de elementos: 10000
+
+Tipo de vetor: vetor aleatorio
+Metodo: 
+Tempo ocorrido: 1.87208e-307s
+Numero de elementos: 1000
+
